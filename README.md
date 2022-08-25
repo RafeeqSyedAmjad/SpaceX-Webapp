@@ -20,7 +20,7 @@ https://spacex-informationals.netlify.app/
 Clone the project
 
 ```bash
-  git clone [https://github.com/RafeeqSyedAmjad/SpaceX-Webapp]
+  git clone https://github.com/RafeeqSyedAmjad/SpaceX-Webapp
 ```
 
 Install dependencies
